@@ -1,12 +1,7 @@
 
 /**
- * This class reads a shape file.  For the format of this shape file, 
- * see the assignment description.
- * 
- * Also, please see the shape files 
- * ExampleShapes.txt, ExampleShapesStill.txt, and TwoRedCircles.txt
  *
- * @author you
+ * @author Alexandru Mihalache
  *
  */
 
